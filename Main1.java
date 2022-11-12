@@ -9,7 +9,7 @@ package Ground;
  *
  * @author HeruSubakti_tugas6_20210040071_TI21A
  */
-public class Main {
+public class Main1 {
     public static void main(String[] args) {
         BangunDatar segitiga = new SegiTiga(20, 10);
         BangunDatar lingkaran = new Lingkaran(10);
